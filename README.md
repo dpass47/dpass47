@@ -18,6 +18,3 @@ I am a Front-End Developer based in Colorado.<br><br>🔭 I am currently working
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dpass47&theme=material-palenight&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dpass47&theme=material-palenight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
----
-
-[![](https://visitcount.itsvg.in/api?id=dpass47&icon=5&color=6)](https://visitcount.itsvg.in)
