@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:
 
-I am a Front-End Developer based in Colorado.<br><br>🔭 I am currently working on a variety of side projects while looking for my first Front-End developer position!<br>🌱 I am currently learning Tailwind CSS, and will look towards learning Node.js after a few practice projects.<br>⚡In my free time, I love to spend time with my family and fly in various flight simulators!<br>
+I am a Front-End Developer based in Colorado.<br><br>🔭 I am currently working on various side projects while looking for my first Front-End developer position!<br>⚡In my free time, I love to spend time with my family and fly in various flight simulators!<br>
 
 ## 🌐 Socials:
 
