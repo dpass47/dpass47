@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me:
 
-I am an aspiring Front-End Developer based in Colorado.<br><br>🔭 I am currently working on various side projects while looking for my first Front-End developer position!<br>⚡In my free time, I love to spend time with my family and fly in the virtual skies!<br>
+I am an aspiring Frontend Developer based in Colorado.<br><br>🔭 I am currently working on various side projects while looking for my first Front-End developer position!<br>⚡In my free time, I love to spend time with my family and fly in the virtual skies!<br>
 
 ## 🌐 Socials:
 
